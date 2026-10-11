@@ -1,0 +1,14 @@
+{
+  "name": "savvy-progress",
+  "owner": {
+    "name": "Kira Krishna"
+  },
+  "description": "A progress bar above the prompt and a live agents panel for Claude Code.",
+  "plugins": [
+    {
+      "name": "savvy-progress",
+      "source": "./",
+      "description": "Progress bar above the prompt and a live agents panel with plan and activity lists, a Kanban view, approval chips and a run log."
+    }
+  ]
+}
